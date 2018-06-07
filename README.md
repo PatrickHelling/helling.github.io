@@ -12,20 +12,6 @@
       <th>
         Austrian Centre for Digital Humanities 
       </th>
-      <th>
-        Berlin-Brandenburgische Akademie der Wissenschaften 
-      </th>
-      <th>
-        CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaften
-      </th>
-    </tr>
-    <tr>
-      <td>
-        Kurzprofil
-      </td>
-    <td>
-      Kurzprofil
-    </td>
       <td>
         Kurzprofil
       </td>
