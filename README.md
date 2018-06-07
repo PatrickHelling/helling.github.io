@@ -6,3 +6,30 @@
 
 <p>Zur besseren Erreichbarkeit einzelner Dienste hat die AG einen Dienstekatalog entwickelt, welcher explizit Forscherinnen und Forscher in den Geisteswissenschaften adressiert. Der Katalog stellt eine individuelle Vorstellung aller Datenzentren und die jeweiligen Kompetenzen sowie eine Bündelung von Spezialdienstleistungen und Serviceangeboten im Verbund dar.</p>
 
+<p>
+  <table>
+    <tr>
+      <th>
+        Austrian Centre for Digital Humanities 
+      </th>
+      <th>
+        Berlin-Brandenburgische Akademie der Wissenschaften 
+      </th>
+      <th>
+        CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaften
+      </th>
+    </tr>
+    <tr>
+      <td>
+        Kurzprofil
+      </td>
+    <td>
+      Kurzprofil
+    </td>
+      <td>
+        Kurzprofil
+      </td>
+    </tr>
+    </table>
+</p>
+
