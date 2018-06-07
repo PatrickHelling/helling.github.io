@@ -17,7 +17,9 @@
       </td>
     </tr>
     </table>
-    
+   
+   </p> 
+    <p>
      <table>
     <tr>
       <th>
@@ -28,7 +30,8 @@
       </td>
     </tr>
     </table>
-    
+    </p>
+    <p>
      <table>
     <tr>
       <th>
