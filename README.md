@@ -17,5 +17,27 @@
       </td>
     </tr>
     </table>
+    
+     <table>
+    <tr>
+      <th>
+        Berlin-Brandenburgische Akademie der Wissenschaften  
+      </th>
+      <td>
+        Kurzprofil
+      </td>
+    </tr>
+    </table>
+    
+     <table>
+    <tr>
+      <th>
+        CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaften 
+      </th>
+      <td>
+        Kurzprofil
+      </td>
+    </tr>
+    </table>
 </p>
 
